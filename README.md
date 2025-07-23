@@ -54,7 +54,7 @@ Este proyecto es una API RESTful construida con **Node.js** y **Express**, que i
 │   └── auth.middleware.js
 index.js
 package-lock.json
-package.json.
+package.json
 vercel.json
 .env
 ```
@@ -124,7 +124,7 @@ Solo asegurate de configurar correctamente las variables de entorno en el entorn
 ## 📌 Autor
 
 **Rodrigo Emanuel Montes**  
-📧 rodrigoemanuelmontes@gmail.com  
+📧 rodrigomontes167@gmail.com  
 💼 [GitHub](https://github.com/rodrigoemanuelmontes)
 
 ---
